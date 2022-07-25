@@ -1,0 +1,5 @@
+reg GCamera http://ns.google.com/photos/1.0/camera/
+
+set Xmp.GCamera.MotionPhoto 1
+set Xmp.GCamera.MotionPhotoVersion 1
+set Xmp.GCamera.MotionPhotoPresentationTimestampUs 0
